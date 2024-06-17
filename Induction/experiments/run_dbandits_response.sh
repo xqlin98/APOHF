@@ -1,0 +1,11 @@
+python experiments/run_dbandits_response.py \
+--nu 1 \
+--lamdba 0.1 \
+--n_init 5 \
+--n_domain 50 \
+--n_prompts 10 \
+--total_iter 150 \
+--local_training_iter 1000 \
+--gpt gpt-3.5-turbo-1106 \
+--func neural \
+--name Response-selection

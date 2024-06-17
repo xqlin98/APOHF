@@ -1,0 +1,11 @@
+python experiments/run_dbandits_image_gen.py \
+--nu 1 \
+--lamdba 0.1 \
+--n_init 5 \
+--n_domain 200 \
+--total_iter 150 \
+--local_training_iter 1000 \
+--gpt gpt-3.5-turbo-1106 \
+--func neural \
+--init_prompt "TODO: Please specify the init prompt here" \
+--name Image-generation
