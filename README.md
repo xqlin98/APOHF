@@ -1,5 +1,5 @@
 # Prompt Optimization with Human Feedback
-This is the official implementation of the paper [Prompt Optimization with Human Feedback](https://arxiv.org/abs/2106.05202).
+This is the official implementation of the paper [Prompt Optimization with Human Feedback](https://arxiv.org/abs/2405.17346).
 
 This repo is based on the codebase of [INSTINCT](https://github.com/xqlin98/INSTINCT).
 ## Prepare the data
