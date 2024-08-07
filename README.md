@@ -1,6 +1,10 @@
 # Prompt Optimization with Human Feedback
 This is the official implementation of the paper [Prompt Optimization with Human Feedback](https://arxiv.org/abs/2405.17346).
 
+# Oral Presentation at ICML 2024 Workshop on Models of Human Feedback for AI Alignment
+
+[Video](https://www.bilibili.com/video/BV13daQeuEgb)
+
 This repo is based on the codebase of [INSTINCT](https://github.com/xqlin98/INSTINCT).
 ## Prepare the data
 Please download the data from: https://github.com/xqlin98/INSTINCT/tree/main/Induction/experiments/data/instruction_induction and put it under ./experiments/data/instruction_induction
